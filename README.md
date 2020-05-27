@@ -1,8 +1,18 @@
 # Air_Pollution_Seoul
 Analysis - Regional Air Pollution in Seoul and Effect of Corona on the Air Pollution of Seoul
 
-# Requirements (used version)
-pandas 0.25.1 numpy 1.16.5 matplotlib 3.1.1 sklearn 0.21.3 statsmodels 0.10.1 scipy 1.4.1
+# Requirements
+pandas == 0.25.1
+
+numpy == 1.16.5 
+
+matplotlib == 3.1.1
+
+sklearn == 0.21.3
+
+statsmodels == 0.10.1 
+
+scipy == 1.4.1
 
 # Datasets
 
